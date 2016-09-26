@@ -39,19 +39,34 @@
     <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: 'unsafe-inline' https://ssl.gstatic.com; style-src 'self' 'unsafe-inline'; media-src *" /> -->
 
     <link rel="stylesheet" type="text/css" href="css/index.css" />
-    <title>Hello World</title>
+    <title>Cor do Dia</title>
 </head>
 
 <body>
     <div class="app">
-        <h1>PhoneGap</h1>
-        <div id="deviceready" class="blink">
-            <p class="event listening">Connecting to Device</p>
-            <p class="event received">Comecei</p>
+        <h1>Cor do Dia</h1>
+
+        <div class="days">
+            
+                <h2>Segunda-Feira</h2>
+            
+            <div class="day">&nbsp;
+                <a href="#" onclick="ReadJson();"><div class="color"></div></a>
+                <a href="#"><div class="otherColor" style="background-color: green"></div></a>
+                <a href="#"><div class="otherColor" style="background-color: blue"></div></a>
+            </div>
+
+            <div class="description">
+                <h1>Branco</h1>
+                <p>O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio.</p>
+            </div>
+
         </div>
     </div>
     <script type="text/javascript" src="cordova.js"></script>
     <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript" src="js/daycolor.js"></script>
+    <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
     <script type="text/javascript">
         app.initialize();
     </script>
