@@ -1,5 +1,35 @@
-function ReadJson() {
+function ReadJson(num) {
+	
+	//Limpando as divs
+	$( ".days" ).empty();
+	$( ".day" ).empty();
+	$( ".description" ).empty();
+
+	//Carregando o JSON
 	$.getJSON('days.json', function(data) {
-		alert(data.days[0].day + data.days[1].day + data.days[2].day + data.days[3].day);
+		
+		// Verificando se temos que mostrar uma cor específica ou a cor principal do dia
+		if (num == undefined) {
+			num = 0;
+		}
+
+		// Recupera qual o dia da semana
+		var numDay = new Date().getDay()-1;
+	
+		$(".days").append("<h2>"+(data.days[numDay].day)+"</h2>");		
+
+		for (var i = 0; i <= data.days[numDay].colors.length - 1; i++) {
+			
+			var link = '<a href="#" onclick="'+(data.days[numDay].colors[i].onclick)+'">'; 
+			link += '<div class="'+(data.days[numDay].colors[i].class)+'" '; 
+			link += 'style="'+(data.days[numDay].colors[i].style)+'">';
+			link += "</div></a>";
+
+			$(".day").append(link);
+
+		}
+		
+		$(".description").append("<h1>"+(data.days[numDay].colors[num].text)+"</h1>");
+		$(".description").append("<p>"+(data.days[numDay].colors[num].description)+"</p>");
 	});
 }

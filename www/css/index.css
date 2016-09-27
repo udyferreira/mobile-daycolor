@@ -61,6 +61,7 @@ body {
 .app .day {
     width: 35%;
     float: left;
+    clear: both;
 }
 
 .app .color {
@@ -73,7 +74,7 @@ body {
     border-radius:50%;
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
-    border:solid 2px #ccc;
+    border:solid 1px #000;
 }
 
 .app .otherColor {
@@ -88,7 +89,7 @@ body {
     border-radius:50%;
     -moz-border-radius:50%;
     -webkit-border-radius:50%;
-    border:solid 2px #ccc;
+    border:solid 1px #000;
     margin: 5px 0px; 
 }
 

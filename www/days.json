@@ -1,58 +1,184 @@
 {"days": [
 	{
-		"day": "Segunda",
-		"href": "ChangeColor('branco')",
-		"class": "color",
-		"text": "Branco",
-		"style": "background-color: white",
-		"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+		"day": "Segunda-Feira",
+		"colors": [
+			{
+				"onclick": "ReadJson(0)",
+				"class": "color",
+				"text": "Branco",
+				"style": "background-color: white",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(1)",
+				"class": "otherColor",
+				"text": "Bege",
+				"style": "background-color: #f5f5dc",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(2)",
+				"class": "otherColor",
+				"text": "Prata",
+				"style": "background-color: #c0c0c0",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			}
+		]
 	},
 	{
-		"day": "Terça",
-		"href": "ChangeColor('branco')",
-		"class": "color",
-		"text": "Branco",
-		"style": "background-color: white",
-		"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+		"day": "Terça-Feira",
+		"colors": [
+			{
+				"onclick": "ReadJson(0)",
+				"class": "color",
+				"text": "Branco",
+				"style": "background-color: white",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(1)",
+				"class": "otherColor",
+				"text": "Bege",
+				"style": "background-color: #f5f5dc",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(2)",
+				"class": "otherColor",
+				"text": "Prata",
+				"style": "background-color: #c0c0c0",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			}
+		]
 	},
 	{
-		"day": "Quarta",
-		"href": "ChangeColor('branco')",
-		"class": "color",
-		"text": "Branco",
-		"style": "background-color: white",
-		"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+		"day": "Quarta-Feira",
+		"colors": [
+			{
+				"onclick": "ReadJson(0)",
+				"class": "color",
+				"text": "Branco",
+				"style": "background-color: white",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(1)",
+				"class": "otherColor",
+				"text": "Bege",
+				"style": "background-color: #f5f5dc",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(2)",
+				"class": "otherColor",
+				"text": "Prata",
+				"style": "background-color: #c0c0c0",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			}
+		]
 	},
 	{
-		"day": "Quinta",
-		"href": "ChangeColor('branco')",
-		"class": "color",
-		"text": "Branco",
-		"style": "background-color: white",
-		"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+		"day": "Quinta-Feira",
+		"colors": [
+			{
+				"onclick": "ReadJson(0)",
+				"class": "color",
+				"text": "Branco",
+				"style": "background-color: white",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(1)",
+				"class": "otherColor",
+				"text": "Bege",
+				"style": "background-color: #f5f5dc",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(2)",
+				"class": "otherColor",
+				"text": "Prata",
+				"style": "background-color: #c0c0c0",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			}
+		]
 	},
 	{
-		"day": "Sexta",
-		"href": "ChangeColor('branco')",
-		"class": "color",
-		"text": "Branco",
-		"style": "background-color: white",
-		"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+		"day": "Sexta-Feira",
+		"colors": [
+			{
+				"onclick": "ReadJson(0)",
+				"class": "color",
+				"text": "Branco",
+				"style": "background-color: white",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(1)",
+				"class": "otherColor",
+				"text": "Bege",
+				"style": "background-color: #f5f5dc",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(2)",
+				"class": "otherColor",
+				"text": "Prata",
+				"style": "background-color: #c0c0c0",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			}
+		]
 	},
 	{
 		"day": "Sábado",
-		"href": "ChangeColor('branco')",
-		"class": "color",
-		"text": "Branco",
-		"style": "background-color: white",
-		"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+		"colors": [
+			{
+				"onclick": "ReadJson(0)",
+				"class": "color",
+				"text": "Branco",
+				"style": "background-color: white",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(1)",
+				"class": "otherColor",
+				"text": "Bege",
+				"style": "background-color: #f5f5dc",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(2)",
+				"class": "otherColor",
+				"text": "Prata",
+				"style": "background-color: #c0c0c0",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			}
+		]
 	},
 	{
 		"day": "Domingo",
-		"href": "ChangeColor('branco')",
-		"class": "color",
-		"text": "Branco",
-		"style": "background-color: white",
-		"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+		"colors": [
+			{
+				"onclick": "ReadJson(0)",
+				"class": "color",
+				"text": "Branco",
+				"style": "background-color: white",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(1)",
+				"class": "otherColor",
+				"text": "Bege",
+				"style": "background-color: #f5f5dc",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			},
+			{
+				"onclick": "ReadJson(2)",
+				"class": "otherColor",
+				"text": "Prata",
+				"style": "background-color: #c0c0c0",
+				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+			}
+		]
 	}
 ]}
