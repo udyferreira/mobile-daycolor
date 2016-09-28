@@ -7,21 +7,21 @@
 				"class": "color",
 				"text": "Branco",
 				"style": "background-color: white",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"description": "O dia da Lua, que é representada pelo branco, bege e prata. Dia ideal para quem busca paz e equilíbrio."
 			},
 			{
 				"onclick": "ReadJson(1)",
 				"class": "otherColor",
 				"text": "Bege",
 				"style": "background-color: #f5f5dc",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"description": "O dia da Lua, que é representada pelo branco, bege e prata. Dia ideal para quem busca paz e equilíbrio."
 			},
 			{
 				"onclick": "ReadJson(2)",
 				"class": "otherColor",
 				"text": "Prata",
 				"style": "background-color: #c0c0c0",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"description": "O dia da Lua, que é representada pelo branco, bege e prata. Dia ideal para quem busca paz e equilíbrio."
 			}
 		]
 	},
@@ -31,23 +31,23 @@
 			{
 				"onclick": "ReadJson(0)",
 				"class": "color",
-				"text": "Branco",
-				"style": "background-color: white",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Vermelho",
+				"style": "background-color: red",
+				"description": "Este é o dia de Marte, o planeta vermelho. Abuse desta cor para aumentar a sua coragem."
 			},
 			{
 				"onclick": "ReadJson(1)",
 				"class": "otherColor",
-				"text": "Bege",
-				"style": "background-color: #f5f5dc",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Lilás",
+				"style": "background-color: #800080",
+				"description": "Este é o dia de Marte, o planeta vermelho. Abuse desta cor para aumentar a sua coragem."
 			},
 			{
 				"onclick": "ReadJson(2)",
 				"class": "otherColor",
-				"text": "Prata",
-				"style": "background-color: #c0c0c0",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Bordeaux",
+				"style": "background-color: #5F021F",
+				"description": "Este é o dia de Marte, o planeta vermelho. Abuse desta cor para aumentar a sua coragem."
 			}
 		]
 	},
@@ -57,23 +57,16 @@
 			{
 				"onclick": "ReadJson(0)",
 				"class": "color",
-				"text": "Branco",
-				"style": "background-color: white",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Amarelo",
+				"style": "background-color: yellow",
+				"description": "Quarta é o dia de Mercúrio. Melhor dia da semana para comprar e vender. Amarelo é a sua cor principal."
 			},
 			{
 				"onclick": "ReadJson(1)",
 				"class": "otherColor",
-				"text": "Bege",
-				"style": "background-color: #f5f5dc",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
-			},
-			{
-				"onclick": "ReadJson(2)",
-				"class": "otherColor",
-				"text": "Prata",
-				"style": "background-color: #c0c0c0",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Laranja",
+				"style": "background-color: orange",
+				"description": "Quarta é o dia de Mercúrio. Melhor dia da semana para comprar e vender. Amarelo é a sua cor principal."
 			}
 		]
 	},
@@ -83,23 +76,16 @@
 			{
 				"onclick": "ReadJson(0)",
 				"class": "color",
-				"text": "Branco",
-				"style": "background-color: white",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Azul",
+				"style": "background-color:blue",
+				"description": "Júpiter rege este dia. Azul é sua cor. Ideal para pedidos, favores ou ajuda."
 			},
 			{
 				"onclick": "ReadJson(1)",
 				"class": "otherColor",
-				"text": "Bege",
-				"style": "background-color: #f5f5dc",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
-			},
-			{
-				"onclick": "ReadJson(2)",
-				"class": "otherColor",
-				"text": "Prata",
-				"style": "background-color: #c0c0c0",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Verde",
+				"style": "background-color:green",
+				"description": "Júpiter rege este dia. Azul é sua cor. Ideal para pedidos, favores ou ajuda."
 			}
 		]
 	},
@@ -109,23 +95,16 @@
 			{
 				"onclick": "ReadJson(0)",
 				"class": "color",
-				"text": "Branco",
-				"style": "background-color: white",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Verde",
+				"style": "background-color: green",
+				"description": "Não é só de happy hour que vive a sexta feira. Regida por Vênus, use verde se precisar de dinheiro e rosa se busca um amor."
 			},
 			{
 				"onclick": "ReadJson(1)",
 				"class": "otherColor",
-				"text": "Bege",
-				"style": "background-color: #f5f5dc",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
-			},
-			{
-				"onclick": "ReadJson(2)",
-				"class": "otherColor",
-				"text": "Prata",
-				"style": "background-color: #c0c0c0",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Rosa",
+				"style": "background-color: #FFC0CB",
+				"description": "Não é só de happy hour que vive a sexta feira. Regida por Vênus, use verde se precisar de dinheiro e rosa se busca um amor."
 			}
 		]
 	},
@@ -135,23 +114,23 @@
 			{
 				"onclick": "ReadJson(0)",
 				"class": "color",
-				"text": "Branco",
-				"style": "background-color: white",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Preta",
+				"style": "background-color:#000",
+				"description": "Sábado é o dia de Saturno. As cores preta, cinza e azul marinho são usadas por gratidão de todas as coisas maravilhosas que nos acontece diariamente."
 			},
 			{
 				"onclick": "ReadJson(1)",
 				"class": "otherColor",
-				"text": "Bege",
-				"style": "background-color: #f5f5dc",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Cinza",
+				"style": "background-color: #ccc",
+				"description": "Sábado é o dia de Saturno. As cores preta, cinza e azul marinho são usadas por gratidão de todas as coisas maravilhosas que nos acontece diariamente."
 			},
 			{
 				"onclick": "ReadJson(2)",
 				"class": "otherColor",
-				"text": "Prata",
-				"style": "background-color: #c0c0c0",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Azul Marinho",
+				"style": "background-color: #000080",
+				"description": "Sábado é o dia de Saturno. As cores preta, cinza e azul marinho são usadas por gratidão de todas as coisas maravilhosas que nos acontece diariamente."
 			}
 		]
 	},
@@ -161,23 +140,30 @@
 			{
 				"onclick": "ReadJson(0)",
 				"class": "color",
-				"text": "Branco",
-				"style": "background-color: white",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Laranja",
+				"style": "background-color:orange",
+				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
 			},
 			{
 				"onclick": "ReadJson(1)",
 				"class": "otherColor",
-				"text": "Bege",
-				"style": "background-color: #f5f5dc",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Amarelo",
+				"style": "background-color:yellow",
+				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
 			},
 			{
 				"onclick": "ReadJson(2)",
 				"class": "otherColor",
-				"text": "Prata",
-				"style": "background-color: #c0c0c0",
-				"description": "O dia da Lua, que é representada pelo branco, pérola, off white e prata. Dia ideal para quem busca paz e equilíbrio."
+				"text": "Fúcsia",
+				"style": "background-color: #FF00FF",
+				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
+			},
+			{
+				"onclick": "ReadJson(3)",
+				"class": "otherColor",
+				"text": "Dourado",
+				"style": "background-color: #FFD700",
+				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
 			}
 		]
 	}
