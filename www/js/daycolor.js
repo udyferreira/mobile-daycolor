@@ -14,8 +14,7 @@ function ReadJson(num) {
 		}
 
 		// Recupera qual o dia da semana
-		//var numDay = new Date().getDay()-1;
-		var numDay = 6;
+		var numDay = new Date().getDay()-1;
 	
 		//$(".days").append("<h2>"+(data.days[numDay].day)+"</h2>");		
 
