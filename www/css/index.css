@@ -200,3 +200,8 @@ span {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+@font-face{
+    font-family: "SignPainter";    
+    src: url('../fonts/SignPainter.ttc') format('truetype');   
+}
