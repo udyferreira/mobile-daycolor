@@ -7,21 +7,7 @@
 				"class": "color",
 				"text": "Branco",
 				"style": "background-color: white;",
-				"description": "O dia da Lua, que é representada pelo branco, bege e prata. Dia ideal para quem busca paz e equilíbrio."
-			},
-			{
-				"onclick": "ReadJson(1)",
-				"class": "otherColor",
-				"text": "Bege",
-				"style": "background-color: #f5f5dc;",
-				"description": "O dia da Lua, que é representada pelo branco, bege e prata. Dia ideal para quem busca paz e equilíbrio."
-			},
-			{
-				"onclick": "ReadJson(2)",
-				"class": "otherColor",
-				"text": "Prata",
-				"style": "background-color: #c0c0c0;",
-				"description": "O dia da Lua, que é representada pelo branco, bege e prata. Dia ideal para quem busca paz e equilíbrio."
+				"description": "O dia da Lua, que é representada pelo branco. Dia ideal para quem busca paz e equilíbrio."
 			}
 		]
 	},
@@ -34,20 +20,6 @@
 				"text": "Vermelho",
 				"style": "background-color: red;",
 				"description": "Este é o dia de Marte, o planeta vermelho. Abuse desta cor para aumentar a sua coragem."
-			},
-			{
-				"onclick": "ReadJson(1)",
-				"class": "otherColor",
-				"text": "Lilás",
-				"style": "background-color: #800080;",
-				"description": "Este é o dia de Marte, o planeta vermelho. Abuse desta cor para aumentar a sua coragem."
-			},
-			{
-				"onclick": "ReadJson(2)",
-				"class": "otherColor",
-				"text": "Bordeaux",
-				"style": "background-color: #5F021F;",
-				"description": "Este é o dia de Marte, o planeta vermelho. Abuse desta cor para aumentar a sua coragem."
 			}
 		]
 	},
@@ -59,14 +31,7 @@
 				"class": "color",
 				"text": "Amarelo",
 				"style": "background-color: yellow;",
-				"description": "Quarta é o dia de Mercúrio. Melhor dia da semana para comprar e vender. Amarelo é a sua cor principal."
-			},
-			{
-				"onclick": "ReadJson(1)",
-				"class": "otherColor",
-				"text": "Laranja",
-				"style": "background-color: orange;",
-				"description": "Quarta é o dia de Mercúrio. Melhor dia da semana para comprar e vender. Amarelo é a sua cor principal."
+				"description": "Quarta é o dia de Mercúrio. Usando amarelo, vamos reforçar justamente o intelecto, a comunicação, a memória, a rapidez e precisão mental."
 			}
 		]
 	},
@@ -78,14 +43,7 @@
 				"class": "color",
 				"text": "Azul",
 				"style": "background-color:blue;",
-				"description": "Júpiter rege este dia. Azul é sua cor. Ideal para pedidos, favores ou ajuda."
-			},
-			{
-				"onclick": "ReadJson(1)",
-				"class": "otherColor",
-				"text": "Verde",
-				"style": "background-color:green;",
-				"description": "Júpiter rege este dia. Azul é sua cor. Ideal para pedidos, favores ou ajuda."
+				"description": "Júpiter rege este dia. Azul é sua cor. Fortalecemos a espiritualidade, favorecemos a meditação, o aprendizado daquilo que é mais elevado."
 			}
 		]
 	},

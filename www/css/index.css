@@ -121,7 +121,7 @@ body {
         height:50px;                   /* text area height */
         width:450px;                   /* text area width */
         text-align:center;
-        padding:280px 0px 75px 0px;  /* padding-top + padding-bottom + text area = image height */
+        padding:270px 0px 75px 0px;  /* padding-top + padding-bottom + text area = image height */
         margin:-155px 0px 0px -225px;  /* offset vertical: half of image height */
                                       /* offset horizontal: half of image width and text area width */
     }
@@ -136,7 +136,7 @@ body {
     }
 
     .app .footer {
-        margin-top: 5%;
+        margin-top: 3%;
     }
 
     .app .day {
@@ -158,6 +158,12 @@ h1 {
     margin:0px;
     overflow:visible;
     padding:0px;
+}
+
+h2 {
+    font-family:Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    color: #999;
 }
 
 p {
