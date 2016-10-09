@@ -1,5 +1,38 @@
 {"days": [
 	{
+		"day": "Domingo",
+		"colors": [
+			{
+				"onclick": "ReadJson(0)",
+				"class": "color",
+				"text": "Laranja",
+				"style": "background-color:orange;",
+				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
+			},
+			{
+				"onclick": "ReadJson(1)",
+				"class": "otherColor",
+				"text": "Amarelo",
+				"style": "background-color:yellow;",
+				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
+			},
+			{
+				"onclick": "ReadJson(2)",
+				"class": "otherColor",
+				"text": "Fúcsia",
+				"style": "background-color: #FF00FF;",
+				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
+			},
+			{
+				"onclick": "ReadJson(3)",
+				"class": "otherColor",
+				"text": "Dourado",
+				"style": "background-color: #FFD700;",
+				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
+			}
+		]
+	},
+	{
 		"day": "Segunda-Feira",
 		"colors": [
 			{
@@ -89,39 +122,6 @@
 				"text": "Azul Marinho",
 				"style": "background-color: #000080;",
 				"description": "Sábado é o dia de Saturno. As cores preta, cinza e azul marinho são usadas por gratidão de todas as coisas maravilhosas que nos acontece diariamente."
-			}
-		]
-	},
-	{
-		"day": "Domingo",
-		"colors": [
-			{
-				"onclick": "ReadJson(0)",
-				"class": "color",
-				"text": "Laranja",
-				"style": "background-color:orange;",
-				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
-			},
-			{
-				"onclick": "ReadJson(1)",
-				"class": "otherColor",
-				"text": "Amarelo",
-				"style": "background-color:yellow;",
-				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
-			},
-			{
-				"onclick": "ReadJson(2)",
-				"class": "otherColor",
-				"text": "Fúcsia",
-				"style": "background-color: #FF00FF;",
-				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
-			},
-			{
-				"onclick": "ReadJson(3)",
-				"class": "otherColor",
-				"text": "Dourado",
-				"style": "background-color: #FFD700;",
-				"description": "Dia de comemorar o sol e a alegria. Use as cores do nascer e pôr-do-sol. Laranja, amarelo, fúcsia, dourado para comemorar a vida."
 			}
 		]
 	}
