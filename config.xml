@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="br.com.phonegap.daycolor" version="1.0.0">
-  <name>CorDoDia</name>
+  <name>Cor do Dia</name>
   <description>Saiba qual cor usar em cada dia da semana, com alternativas e detalhes.</description>
   <author href="http://phonegap.com" email="udyferreira@gmail.com">Udy Ferreira</author>
   <content src="index.html"/>
